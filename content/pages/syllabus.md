@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
@@ -37,9 +39,9 @@ Additionally, the lowest problem set grade will be dropped in calculating your f
 Software Requirements
 ---------------------
 
-Assignments require the use of MATLAB® version 2017b. Therefore, it is essential that you install this software on your laptop.
+Assignments require the use of MATLAB{{< sup "®" >}} version 2017b. Therefore, it is essential that you install this software on your laptop.
 
-Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
 
 Policy on Problem Set Collaboration
 -----------------------------------

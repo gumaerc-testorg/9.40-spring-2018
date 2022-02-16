@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-40-introduction-to-neural-computation-spring-2018/cee222bdd1b6f9851af55604eb3d9793_smHwRzk81b0.pdf
+file: /media/courses/9-40-introduction-to-neural-computation-spring-2018/cee222bdd1b6f9851af55604eb3d9793_smHwRzk81b0.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: cee222bd-d1b6-f985-1af5-5604eb3d9793

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f22984ff-59de-8fd8-ee9a-f0413ae2f486
 ---
@@ -114,7 +117,7 @@ Problem Set Rubric and Guidelines
 
 ### Scope of Problem Sets
 
-The problems sets are designed to learn basic aspects of neural computation, where the emphasis is on articulating these models and analyses into working MATLAB®. These problems are the perfect place to assimilate and build upon what you have learned in lecture and recitation.
+The problems sets are designed to learn basic aspects of neural computation, where the emphasis is on articulating these models and analyses into working MATLAB{{< sup "®" >}}. These problems are the perfect place to assimilate and build upon what you have learned in lecture and recitation.
 
 To achieve these goals, problems will combine: building numerical simulations of neuronal models and processes, analyses and visualization of data coming from either experimental data or as output of simulations, and a bit of analytical and conceptual work.
 

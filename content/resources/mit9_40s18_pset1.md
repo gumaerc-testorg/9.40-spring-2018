@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-40-introduction-to-neural-computation-spring-2018/10ff6774cd74d891c5cd2ea703fe4ae7_MIT9_40S18_pset1.zip
+file: /media/courses/9-40-introduction-to-neural-computation-spring-2018/10ff6774cd74d891c5cd2ea703fe4ae7_MIT9_40S18_pset1.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: MIT9_40S18_pset1.zip
 uid: 10ff6774-cd74-d891-c5cd-2ea703fe4ae7

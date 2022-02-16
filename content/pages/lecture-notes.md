@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8f6c4243-744a-9b41-6623-a021d0178db2
 ---
@@ -81,7 +84,7 @@ Lecture Notes
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 *   To be able to draw the circuit diagram of the HH model

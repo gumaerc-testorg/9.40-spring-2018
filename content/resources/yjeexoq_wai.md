@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-40-introduction-to-neural-computation-spring-2018/0ec37c9f2df129445c66bf185c42b86b_Yjeexoq_WAI.srt
+file: /media/courses/9-40-introduction-to-neural-computation-spring-2018/0ec37c9f2df129445c66bf185c42b86b_Yjeexoq_WAI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 0ec37c9f-2df1-2944-5c66-bf185c42b86b
