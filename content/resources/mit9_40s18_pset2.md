@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f22984ff-59de-8fd8-ee9a-f0413ae2f486
 resourcetype: Other
 title: MIT9_40S18_pset2.zip
 uid: 1e299a8d-a64a-634b-604d-ef3819212f00

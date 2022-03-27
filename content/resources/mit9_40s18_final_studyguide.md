@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam Study Guides
 parent_type: CourseSection
+parent_uid: 1a0bebbc-28f7-f19b-7a11-32130127efe8
 resourcetype: Document
 title: Final Exam Study Guide - 9.40 Introduction to Neural Computation
 uid: d014e73b-1e88-80c5-4f70-14b72f96b37b
