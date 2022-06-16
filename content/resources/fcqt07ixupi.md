@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-40-introduction-to-neural-computation-spring-2018/2cfe4855dac59813e0eaa69917478507_fCqt07IXUPI.srt
+file: /courses/9-40-introduction-to-neural-computation-spring-2018/2cfe4855dac59813e0eaa69917478507_fCqt07IXUPI.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

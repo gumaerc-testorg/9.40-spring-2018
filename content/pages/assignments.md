@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes problem sets and grading rubric and guidelines.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ List of files
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 1 (ZIP - 1.1MB)]({{< baseurl >}}/resources/mit9_40s18_pset1)
+{{% resource_link 10ff6774-cd74-d891-c5cd-2ea703fe4ae7 "Problem set 1 (ZIP - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Diffusion, equivalent circuit and Nernst potential
@@ -39,7 +40,7 @@ This zip file contains: 3 .pdf files, 3 .m files, and 1 .mat file
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 2 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset2)
+{{% resource_link 1e299a8d-a64a-634b-604d-ef3819212f00 "Problem set 2 (ZIP)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Integrate and fire and Hodgkin-Huxley
@@ -51,7 +52,7 @@ This zip file contains: 1 .pdf file, 7 .m files, and 1 .p file
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit9_40s18_pset3)
+{{% resource_link 5262d711-1bcf-17c7-33cb-80c68591ebc9 "Problem set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Synapses as computational devices
@@ -63,7 +64,7 @@ Reference: Vu, E.T., and F.B. Krasne. “[Evidence for a Computational Distinct
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 4 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset4)
+{{% resource_link 71b345f1-f5e9-399f-9f41-b64f85b8a1e8 "Problem set 4 (ZIP)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 How neurons respond to different stimuli
@@ -75,7 +76,7 @@ This zip file contains: 1 .pdf file, 5 .m files, and 1 .mat file
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 5 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset5)
+{{% resource_link 752dfa5c-1663-eb67-68d1-ba1d0a2ab0cc "Problem set 5 (ZIP)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Analyzing EEG data
@@ -87,7 +88,7 @@ This zip file contains: 1 .pdf file, 2 .m files, and 1 .mat file
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 6 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset6)
+{{% resource_link 0ee68ad9-5cbb-bdae-d74b-124eed3f1f7d "Problem set 6 (ZIP)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Perceptrons and PCA
@@ -99,7 +100,7 @@ This zip file contains: 1 .pdf file, 1 .m file, and 1 .mat file
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 7 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset7)
+{{% resource_link 4f8377fe-9e8d-c960-3368-5b60a4876d0c "Problem set 7 (ZIP)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Recurrent networks
