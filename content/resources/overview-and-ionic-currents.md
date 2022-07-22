@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This video covers how the timescale of diffusion relates to length scales, how concentration gradients lead to currents, and how charge drift in an electric field leads to currents.
 
 **Instructor:** Michale Fee
-
-
 

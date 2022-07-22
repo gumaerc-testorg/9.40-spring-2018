@@ -5,6 +5,7 @@ file: /courses/9-40-introduction-to-neural-computation-spring-2018/71b345f1f5e93
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

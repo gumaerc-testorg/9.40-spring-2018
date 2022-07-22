@@ -4,6 +4,7 @@ description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/d5c3bfb8277f58448a5e996b7ca2c3b3_Yjeexoq_WAI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
