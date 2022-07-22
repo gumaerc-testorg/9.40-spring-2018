@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
@@ -14,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-_Physics II_ ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/)), [_6.0002 Introduction to Computational Thinking and Data Science_](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)_,_ and [_9.01 Introduction to Neuroscience_](/courses/9-01-neuroscience-and-behavior-fall-2003/) or permission of the instructor.
+_Physics II_ ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006)), [_6.0002 Introduction to Computational Thinking and Data Science_](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)_,_ and [_9.01 Introduction to Neuroscience_](/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
 
 Note: several modules of 8.02 can be found in [the Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A34).
 
@@ -37,9 +40,9 @@ Additionally, the lowest problem set grade will be dropped in calculating your f
 Software Requirements
 ---------------------
 
-Assignments require the use of MATLAB® version 2017b. Therefore, it is essential that you install this software on your laptop.
+Assignments require the use of MATLAB{{< sup "®" >}} version 2017b. Therefore, it is essential that you install this software on your laptop.
 
-Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
 
 Policy on Problem Set Collaboration
 -----------------------------------

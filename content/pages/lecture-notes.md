@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes learning objective and lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8f6c4243-744a-9b41-6623-a021d0178db2
 ---
@@ -34,7 +38,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Overview and Ionic Currents (PDF - 1.7MB)]({{< baseurl >}}/resources/mit9_40s18_lec01)
+{{% resource_link 6b1b693b-9137-8b6f-a15d-a16eee7621d4 "Overview and Ionic Currents (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[RC Circuit and Nernst Potential (PDF - 2.7MB)]({{< baseurl >}}/resources/mit9_40s18_lec02)
+{{% resource_link 45909c8b-f4cb-591d-3f83-95f0ec014fb1 "RC Circuit and Nernst Potential (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +77,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec03)
+{{% resource_link 16084675-fd6a-490a-2ac0-d3d6ae350072 "Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +85,7 @@ Lecture Notes
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 *   To be able to draw the circuit diagram of the HH model
@@ -92,7 +96,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Hodgkin Huxley Model Part 1 (PDF - 6.3MB)]({{< baseurl >}}/resources/mit9_40s18_lec04)
+{{% resource_link 4458dad3-0259-d17a-3f1e-df9d7f803fdf "Hodgkin Huxley Model Part 1 (PDF - 6.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +105,7 @@ Lecture Notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hodgkin Huxley Model Part 2 (PDF - 3.3MB)]({{< baseurl >}}/resources/mit9_40s18_lec05)
+{{% resource_link aaa92d26-e832-b661-a850-e02fbf3bd9bc "Hodgkin Huxley Model Part 2 (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dendrites (PDF - 3.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec06)
+{{% resource_link 65ad58a9-a37d-79e8-6320-8745f30c264d "Dendrites (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +145,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Synapses (PDF - 3.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec07)
+{{% resource_link fff03c31-25fe-8d59-7cec-46ba356862ae "Synapses (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +165,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Spike Trains (PDF - 2.6MB)]({{< baseurl >}}/resources/mit9_40s18_lec08)
+{{% resource_link 7a90ad5e-cc70-3750-6a34-cffd3533935d "Spike Trains (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +185,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Receptive Fields (PDF - 2.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec09)
+{{% resource_link 2b84cf13-2d42-9d08-9f1f-2709f800a9cd "Receptive Fields (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Time Series (PDF - 4.5MB)]({{< baseurl >}}/resources/mit9_40s18_lec10)
+{{% resource_link 1bf2762c-9ef0-2991-5015-b61f5eaab59a "Time Series (PDF - 4.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +226,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Analysis Part 1 (PDF - 4.3MB)]({{< baseurl >}}/resources/mit9_40s18_lec11)
+{{% resource_link 53731e24-a7b2-be94-c428-9ba479b11079 "Spectral Analysis Part 1 (PDF - 4.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +249,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Analysis Part 2 (PDF - 3.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec12)
+{{% resource_link 3af4f6a0-ae1d-f1d8-8629-3979018142b0 "Spectral Analysis Part 2 (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +272,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Analysis Part 3 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec13)
+{{% resource_link 8ff190d8-31c8-c04e-5850-37c28f1e1493 "Spectral Analysis Part 3 (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +292,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Rate Models and Perceptrons (PDF - 3.9MB)]({{< baseurl >}}/resources/mit9_40s18_lec14)
+{{% resource_link 0b7de8f4-cb62-9d99-607a-3179af8a8363 "Rate Models and Perceptrons (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +312,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Matrix Operations (PDF - 4.0MB)]({{< baseurl >}}/resources/mit9_40s18_lec15)
+{{% resource_link 0993f9f8-231d-ae91-8e3a-6d291b13281f "Matrix Operations (PDF - 4.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +332,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Basis Sets (PDF - 2.8MB)]({{< baseurl >}}/resources/mit9_40s18_lec16)
+{{% resource_link a6e8bfd0-a1d7-7c92-718a-3370581f9490 "Basis Sets (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +351,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Principal Components Analysis​ (PDF - 4.8MB)]({{< baseurl >}}/resources/mit9_40s18_lec17)
+{{% resource_link 23203cb4-7ede-79bf-c5c8-c6b1ae2774f2 "Principal Components Analysis​ (PDF - 4.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +371,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recurrent Networks (PDF - 2.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec18)
+{{% resource_link 527a5c41-f04e-5789-82b3-af27c85c2824 "Recurrent Networks (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +390,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Neural Integrators (PDF - 2.0MB)]({{< baseurl >}}/resources/mit9_40s18_lec19)
+{{% resource_link cd8480fd-34b8-1875-c5d4-e9c808020203 "Neural Integrators (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +411,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hopfield Networks (PDF - 2.7MB)]({{< baseurl >}}/resources/mit9_40s18_lec20)
+{{% resource_link d0eb7c14-d2fa-8ddb-6bed-2583d2f2962d "Hopfield Networks (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
