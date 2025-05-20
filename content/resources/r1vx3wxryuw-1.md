@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/9-40-introduction-to-neural-computation-spring-2018/a6f9dd33aa9f50d95af121786627fc31_r1VX3WXrYUw.pdf
+file: /courses/9-40-introduction-to-neural-computation-spring-2018/a6f9dd33aa9f50d95af121786627fc31_r1VX3WXrYUw.pdf
 file_size: 116768
 file_type: application/pdf
 learning_resource_types: []
