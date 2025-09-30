@@ -17,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 
 *Physics II* ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)), [*6.0002 Introduction to Computational Thinking and Data Science*](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)*,* and [*9.01 Introduction to Neuroscience*](/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
 
-Note: several modules of 8.02 can be found in [the Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A34).
+Note: several modules of 8.02 can be found in {{% resource_link "abdd7def-ae9f-4c3f-b97a-199094dba6eb" "the Open Learning Library" %}}.
 
 ## Course Description
 
@@ -37,7 +37,7 @@ Additionally, the lowest problem set grade will be dropped in calculating your f
 
 Assignments require the use of MATLAB{{< sup "®" >}} version 2017b. Therefore, it is essential that you install this software on your laptop.
 
-Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+Note: MIT OpenCourseWare does not provide student access or discounts for {{% resource_link "26c8ccd2-9cae-4903-a7ad-f0e2e68c6f90" "MATLAB software" %}}. It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact {{% resource_link "cc7c914b-31f0-4873-b7d3-80b0abd9b4c1" "The MathWorks" %}} directly.
 
 ## Policy on Problem Set Collaboration
 
